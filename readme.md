@@ -13,7 +13,8 @@ Más adelante, en el apartado claves privada se dice como configurarlo.
 
 Además este proyecto está asociado con su front que está en https://github.com/CarlosDiazGirol/loginfirebase-front
 
-## MODELO
+
+## MODELO
 En `User.js` tenemos el modelo de usuario donde se le añadirán las entradas desde el back. Este modelo de usuario se caracteriza porque al hacer registro desde el front conseguimos su `UID`, se guarda en BBDD de Mongo y con ello conseguimos asociar usuario a contenido.
 
 ## ROUTES
